@@ -1,5 +1,4 @@
-//! đối với kiểu dữ liệu Primitive thì giá trị được
-//! chuyền vào sẽ không bị thay đổi (tham chiếu)
+//! đối với kiểu dữ liệu Primitive thì giá trị được chuyền vào sẽ không bị thay đổi (tham chiếu)
 //? Đối với kiểu dữ liệu Non-Primitive thì giá trị có thể thay đổi
 //? Tùy thuộc vào các thao tác (Tham chiếu)
 const Name = "Thang";
